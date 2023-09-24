@@ -25,6 +25,16 @@ Add target file name to SRC variable in makefile, when using this template.
 
 # Tutorial
 
+## Setup
+
+1. Cpp
+    1. copy for template and, target src editing in makefile.
+1. python
+    1. pyenv installs
+    1. pyenv local x.x.x
+    1. virtualenv -p x.x.x venv
+1. Rust
+
 ## 01_HelloWorld
 
 **Hello World!!**
