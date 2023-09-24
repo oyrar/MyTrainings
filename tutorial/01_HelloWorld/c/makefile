@@ -1,6 +1,6 @@
 all:
 
-TARGET=main
+TARGET=main.exe
 
 # Setting build
 
