@@ -40,6 +40,11 @@ Add target file name to SRC variable in makefile, when using this template.
     1. pyenv local x.x.x
     1. virtualenv -p x.x.x venv
 1. Rust
+    1. mkdir projects/to/path
+    1. cd projects/to/path
+    1. cargo new project
+    1. cd project
+    1. cargo build, or cargo run
 
 ## 01_HelloWorld
 
