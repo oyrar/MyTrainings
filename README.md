@@ -25,6 +25,12 @@ Add target file name to SRC variable in makefile, when using this template.
 
 # Tutorial
 
+## Reference
+
+1. [C++ cpprefjp](https://cpprefjp.github.io)
+1. [python Documentation](https://docs.python.org/ja/3/)
+1. [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja/)
+
 ## Setup
 
 1. Cpp
