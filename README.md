@@ -51,3 +51,15 @@ Add target file name to SRC variable in makefile, when using this template.
 **Hello World!!**
 
 [tutorial folders](tutorial/01_HelloWorld)
+
+## 02 if switch
+
+[if switch folders](tutorial/02_if-switch)
+
+## 03 loop
+
+[loop folders](tutorial/03_loop)
+
+## project
+
+[project folders](tutorial/project)
